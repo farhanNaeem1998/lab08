@@ -1,6 +1,6 @@
 /* Navigation bar styles */
 .navbar {
-  background-color: #1babbe;
+  background-color:darkgray;
   padding: 10px;
   display: flex;
   align-items: center;
@@ -28,7 +28,7 @@
 
 /* Footer styles */
 .footer {
-  background-color: #1babbe;
+  background-color:darkgray;
   padding: 20px;
   color: white;
   text-align: center;
